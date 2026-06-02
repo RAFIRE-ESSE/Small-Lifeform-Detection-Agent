@@ -1,0 +1,7 @@
+
+        train: /home/devil/Downloads/yolo-reinforced/processed_dataset/train
+        val: /home/devil/Downloads/yolo-reinforced/processed_dataset/val
+        
+        nc: 1
+        names: ['snakes']
+        
